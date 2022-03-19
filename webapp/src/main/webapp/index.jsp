@@ -3,6 +3,7 @@
     <h1>New user Register for DevOps Learning</h1>
     <p>Please fill in this form to create an account.</p>
     <h1>Edited by MSDs</h1>
+    <h1>rebuild and deploy to docker over SSH</h1>
     <hr>
      this is test for continues integration task 
     <hr>
