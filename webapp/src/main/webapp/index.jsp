@@ -2,7 +2,7 @@
   <div class="container">
     <h1>New user Register for DevOps Learning</h1>
     <p>Please fill in this form to create an account.</p>
-    Edited by MSDs
+    <h1>Edited by MSDs</h1>
     <hr>
      this is test for continues integration task 
     <hr>
